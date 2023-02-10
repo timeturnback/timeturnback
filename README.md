@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Long Tran</h1>
-<h3 align="center">A frontend , mobile developer from Vietname</h3>
+<h3 align="center">A frontend , mobile developer from Vietnam</h3>
 
 <h3 align="center">
 
@@ -10,18 +10,24 @@
 <br />
 <br />
 
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=timeturnback&label=Profile%20views&color=0e75b6&style=flat" alt="timeturnback" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=timeturnback&label=Profile%20views&color=0e75b6&style=flat" alt="timeturnback" />
 </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on [react-global-loading](https://www.npmjs.com/package/react-global-loading)
+<!-- - 🔭 I’m currently working on [react-global-loading](https://www.npmjs.com/package/react-global-loading) -->
+
 - 💬 Ask me about **react, react native**
 - 📫 How to reach me **redcloudsteam@gmail.com**
 - 👯 I’m looking to collaborate on Javascript project (React , React Native, NextJS)
+
+<br />
+<br />
+
+| Project                                                                          | Stars                                                                                                       | Current Version                                                   | Downloads                                                            |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [**React Global Loading**](https://github.com/timeturnback/react-global-loading) | ![GitHub PRs](https://img.shields.io/github/stars/timeturnback/react-global-loading?style=flat&logo=github) | ![npm version](https://badge.fury.io/js/react-global-loading.svg) | ![downloads](https://img.shields.io/npm/dt/react-global-loading.svg) |
 
 <br />
 <br />
