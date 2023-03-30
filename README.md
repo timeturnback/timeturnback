@@ -28,6 +28,7 @@
 | Project                                                                          | Stars                                                                                                       | Current Version                                                   | Downloads                                                            |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [**React Global Loading**](https://github.com/timeturnback/react-global-loading) | ![GitHub PRs](https://img.shields.io/github/stars/timeturnback/react-global-loading?style=flat&logo=github) | ![npm version](https://badge.fury.io/js/react-global-loading.svg) | ![downloads](https://img.shields.io/npm/dt/react-global-loading.svg) |
+| [**React Global Alert**](https://github.com/timeturnback/react-global-alert) | ![GitHub PRs](https://img.shields.io/github/stars/timeturnback/react-global-alert?style=flat&logo=github) | ![npm version](https://badge.fury.io/js/react-global-alert.svg) | ![downloads](https://img.shields.io/npm/dt/react-global-alert.svg) |
 
 <br />
 <br />
